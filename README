@@ -1,15 +1,20 @@
-  ___         ___         ___        ___        ___   
-/' _ `\      / __`\      /'___\     /'___\     / __`\ 
-/\ \/\ \    /\ \_\ \    /\ \__/    /\ \__/    /\ \_\ \
-\ \_\ \_\   \ \____/    \ \____\   \ \____\   \ \____/
- \/_/\/_/    \/___/      \/____/    \/____/    \/___/ 
 
-Nocco is a quick-and-dirty, literate-programming-style
+   _____          _        ____              _    
+  / ____|        | |      |  _ \            | |   
+ | |     ___   __| | ___  | |_) | ___   ___ | | __
+ | |    / _ \ / _` |/ _ \ |  _ < / _ \ / _ \| |/ /
+ | |___| (_) | (_| |  __/ | |_) | (_) | (_) |   < 
+  \_____\___/ \__,_|\___| |____/ \___/ \___/|_|\_\
+                                                  
+                                                  
+
+
+CodeBook is tool to create a book from your source code .The basic idea is created from Nocco which is a quick-and-dirty, literate-programming-style
 documentation generator. For more information, see:
 
 http://dontangg.github.com/nocco
 
-Nocco is a port of Docco, the original quick-and-dirty, literate-programming-style
+And Nocco is a port of Docco, the original quick-and-dirty, literate-programming-style
 documentation generator written in CoffeeScript.
 
 http://jashkenas.github.com/docco/
